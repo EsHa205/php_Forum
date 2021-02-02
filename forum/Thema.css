@@ -1,0 +1,14 @@
+table, th, td, thead, tbody {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    height: 30px;
+}
+#row1 {
+    width: 200px;
+}
+#row2 {
+    width: 200px;
+}
+#row3 {
+    width: 1200px;
+}

@@ -1,0 +1,19 @@
+table, th, td, thead, tbody {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+#Kategorie {
+    width: 200px;
+}
+#AnzahlThemen {
+    width: 100px;
+}
+#AnzahlBeitraege {
+    width: 100px;
+}
+#LetzterBeitrag {
+    width: 200px;
+}
+#Erstellungsdatum {
+    width: 150px;
+}
